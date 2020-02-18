@@ -1,0 +1,10 @@
+name: 'create-or-update-sendgrid-template-action'
+description: 'GitHub action to create or update SendGrid templates'
+
+runs:
+  using: 'node12'
+  main: 'index.js'
+
+branding:
+  icon: 'tag'
+  color: 'green'
